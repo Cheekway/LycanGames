@@ -1,4 +1,4 @@
 # LycanGames
-Using this repo and web app to perform a multi tier DevOps build.
-configured ansible webhook with Jenkins
-changed ip address for jenkins server and edited webhook ipaddress for jenkins twice
+Im using this repo to test out webhooks in with Jenkins using my github.
+Also, this will serve as a demo template for future website ideas i plan on building in the near future.
+
